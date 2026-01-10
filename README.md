@@ -16,13 +16,22 @@ But in all seriousness you just need to get the firmware and then just flash the
 <img width="1366" height="768" alt="PCB Schematic" src="https://github.com/user-attachments/assets/fdb36797-8e28-43db-94b0-9b80a464614f" />
 ## BOM
 *not a bomb a BOM, Bill Of Materials*
-Id,Name,Quantity,Designation,Supplier and ref,Price Per Unit INR,Total INR
-1,Diode SMD 123,36,1N4148WT,https://robu.in/product/tpmbr140sft1g-tech-public-sod-123-schottky-diodes-rohs/,₹2.49,₹89.64
-2,Switches (Pack of 10),4,SW_Push,https://stackskb.com/store/click-inc-hp-switch-pack-of-10-pre-order/,₹180.00,₹720.00
-3,RaspberryPi Pico W,1,RaspberryPi_Pico_W,https://robu.in/product/raspberry-pi-pico-w/,₹614.00,₹614.00
-4,Keycaps,1,,https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/,"₹1,299.00","₹1,299.00"
-5,Hotswap Sockets(Pack of 1),34,SW_Push,https://stackskb.com/store/ttc-pokayoke-hotswap-sockets-v2-10000-cycles,₹10.00,₹340.00
-6,PCB Fab,1,,https://cart.jlcpcb.com/shopcart/cart,"₹2,294.11","₹2,294.11"
-,,,,TOTAL,,"₹5,356.75"
-,,,,TOTAL USD,,$59.34
-,,,,Round off,,$60
+## Bill of Materials (Readable)
+
+| ID | Component | Qty | Designation | Supplier | Unit (INR) | Total (INR) |
+|----|----------|-----|-------------|----------|------------|-------------|
+| 1 | Diode SMD 123 | 36 | 1N4148WT | [Robu](https://robu.in/product/tpmbr140sft1g-tech-public-sod-123-schottky-diodes-rohs/) | ₹2.49 | ₹89.64 |
+| 2 | Switches (Pack of 10) | 4 | SW_Push | [StacksKB](https://stackskb.com/store/click-inc-hp-switch-pack-of-10-pre-order/) | ₹180.00 | ₹720.00 |
+| 3 | Raspberry Pi Pico W | 1 | RaspberryPi_Pico_W | [Robu](https://robu.in/product/raspberry-pi-pico-w/) | ₹614.00 | ₹614.00 |
+| 4 | Keycaps | 1 | — | [StacksKB](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/) | ₹1,299.00 | ₹1,299.00 |
+| 5 | Hotswap Sockets | 34 | SW_Push | [StacksKB](https://stackskb.com/store/ttc-pokayoke-hotswap-sockets-v2-10000-cycles) | ₹10.00 | ₹340.00 |
+| 6 | PCB Fabrication | 1 | — | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart) | ₹2,294.11 | ₹2,294.11 |
+
+---
+
+### 💸 Cost Summary
+
+- **Total (INR): ₹5,356.75**
+- **Total (USD): ~$59.34**
+- **Rounded:** **$60**
+
