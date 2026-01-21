@@ -33,5 +33,6 @@ But in all seriousness you just need to get the firmware and then just flash the
 
 - **Total (INR): ₹5,356.75**
 - **Total (USD): ~$59.34**
-- **Rounded:** **$60**
+- **Additional Cost [Case + Plate] (USD): $40**
+- **Rounded:** **$100**
 
