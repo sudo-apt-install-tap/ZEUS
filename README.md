@@ -7,6 +7,7 @@ WHY WOULD YOU WANNA FLASH A GOD WHO HAS A HISTORY OF ADULTRY AND CREATING DEMIGO
 But in all seriousness you just need to get the firmware and then just flash the code through any ide.
 ## RENDER
 <img width="1083" height="633" alt="pcb" src="https://github.com/user-attachments/assets/60c8420a-354c-42e9-a544-dfdfb1bd4cc9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7be35d8c-ac9c-4d71-a824-4a5a4e430b70" />
 ## PCB
 <img width="1366" height="768" alt="PCB Layout" src="https://github.com/user-attachments/assets/f7fde01a-1b68-49df-84a1-5a96753929aa" />
 <img width="1366" height="768" alt="Matrix Routing" src="https://github.com/user-attachments/assets/63c61277-626f-4c4e-a95e-accd2d9e56a4" />
