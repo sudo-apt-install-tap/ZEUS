@@ -13,9 +13,11 @@ But in all seriousness you just need to get the firmware and then just flash the
 <img width="1366" height="768" alt="Matrix Routing" src="https://github.com/user-attachments/assets/63c61277-626f-4c4e-a95e-accd2d9e56a4" />
 <img width="1366" height="768" alt="PCB Routing 1" src="https://github.com/user-attachments/assets/27a3748c-ae0b-497b-87a8-eae1591b4c08" />
 <img width="1366" height="768" alt="PCB Routing 2" src="https://github.com/user-attachments/assets/3e4e3567-0f7d-4298-a3a5-3eab44b868c3" />
+
 ## Schematic
 <img width="1366" height="768" alt="PCB Schematic" src="https://github.com/user-attachments/assets/fdb36797-8e28-43db-94b0-9b80a464614f" />
-## BOM <br>
+
+## BOM
 ### *not a bomb a BOM, Bill Of Materials*
 
 | ID | Component | Qty | Designation | Supplier | Unit (INR) | Total (INR) |
