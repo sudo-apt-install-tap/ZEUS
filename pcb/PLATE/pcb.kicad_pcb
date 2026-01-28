@@ -987,13 +987,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -1555,13 +1555,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -1840,13 +1840,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -2691,13 +2691,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -2976,13 +2976,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -3884,13 +3884,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -4169,13 +4169,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 6)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -5020,13 +5020,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -5588,13 +5588,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -7195,13 +7195,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -7480,13 +7480,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -8613,7 +8613,6 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
-			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8621,18 +8620,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 90 -0 -0)
-			)
-		)
-		(model "/home/tapishnud/Downloads/switch.step"
-			(offset
-				(xyz -2.5 -6 4.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -9194,13 +9182,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -9479,13 +9467,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -9764,13 +9752,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -10049,13 +10037,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -10900,13 +10888,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -11185,13 +11173,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -11470,13 +11458,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -11763,6 +11751,101 @@
 			)
 		)
 	)
+	(footprint "MountingHole:MountingHole_2.2mm_M2"
+		(layer "F.Cu")
+		(uuid "875bd18d-c373-40b3-b0c7-e1acb9d1a4dc")
+		(at 216 22.025)
+		(descr "Mounting Hole 2.2mm, M2, no annular, generated by kicad-footprint-generator mountinghole.py")
+		(tags "mountinghole M2")
+		(property "Reference" "REF**"
+			(at 0 -3.15 0)
+			(layer "F.SilkS")
+			(uuid "e06bab4c-7265-4b48-864c-eabd47674d50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole_2.2mm_M2"
+			(at 0 3.15 0)
+			(layer "F.Fab")
+			(uuid "6ee20113-19c3-44fc-bcb4-4ad04178ee33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e56f7845-fad3-4df8-acd5-e36e06556c7c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1185ce5d-81e8-4967-b0e6-e7cefa897c44")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.2 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "d17b824d-731a-4fd5-9228-17838f4c5447")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "1b22f99b-1479-463b-bf98-7af17afd6b33")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "f65fbbf2-778d-4d6a-947c-7f8dd710b57a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "f318fde2-c5e2-4940-8ab0-52d7b3da0ba6")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "9180b059-d73d-4c7b-b0e6-f678257a2ca4")
@@ -12038,13 +12121,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -12889,13 +12972,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -13552,13 +13635,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -13837,13 +13920,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -14122,13 +14205,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -15256,13 +15339,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -15541,13 +15624,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -16109,13 +16192,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -19696,13 +19779,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -20264,13 +20347,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -21398,13 +21481,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -21683,13 +21766,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -21968,13 +22051,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -22348,13 +22431,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -22854,13 +22937,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -23206,6 +23289,17 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "b68e9599-61f1-4aa6-8f4b-d3bd483dd341")
+	)
+	(gr_rect
+		(start 189.8 17.7)
+		(end 197.675 17.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "e691d728-a859-40e8-b30a-f8665c2c2026")
 	)
 	(gr_text "ZEUS"
 		(at 95.035 116.285 45)
@@ -23631,14 +23725,6 @@
 		(layer "F.Cu")
 		(net 17)
 		(uuid "92615287-9387-4cfe-a1e6-b82048673be5")
-	)
-	(segment
-		(start 71.65 92.65)
-		(end 167 92.65)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 17)
-		(uuid "addd058e-a136-49b9-81bb-afe32531df5e")
 	)
 	(segment
 		(start 169.1 92.65)
@@ -24777,118 +24863,6 @@
 		(uuid "fbb8c020-cb64-454d-8edb-b39a2cf916b0")
 	)
 	(segment
-		(start 66.32 27.99)
-		(end 68.14 27.99)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 34)
-		(uuid "57e8c359-99cd-41de-8f8d-a445ec18a4d9")
-	)
-	(segment
-		(start 68.14 27.99)
-		(end 71.2 31.05)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 34)
-		(uuid "7d818e86-20b1-4a20-becb-1c4829cdbc8d")
-	)
-	(segment
-		(start 85.35 27.99)
-		(end 87.94 27.99)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 35)
-		(uuid "448a89b9-7c37-49e4-b294-fe1ef9214565")
-	)
-	(segment
-		(start 87.94 27.99)
-		(end 91 31.05)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 35)
-		(uuid "63189def-136b-4e84-a5e7-c3d5a468ea8b")
-	)
-	(segment
-		(start 106.94 27.99)
-		(end 110 31.05)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 36)
-		(uuid "790bda32-7938-48f8-a46e-56feb9acdb12")
-	)
-	(segment
-		(start 104.39 27.99)
-		(end 106.94 27.99)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 36)
-		(uuid "8b82d55d-dac1-411e-8d3c-996dd539ad90")
-	)
-	(segment
-		(start 123.43 27.99)
-		(end 125.94 27.99)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 37)
-		(uuid "410cc19e-1d27-4cd8-8ab7-064af9b4d0d1")
-	)
-	(segment
-		(start 125.94 27.99)
-		(end 129 31.05)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 37)
-		(uuid "44f04b41-ed7a-464e-8d91-6872a0857883")
-	)
-	(segment
-		(start 142.51 27.99)
-		(end 145.49 27.99)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 38)
-		(uuid "360831c5-6965-4b7c-9acb-488aa73de91e")
-	)
-	(segment
-		(start 148.03 30.53)
-		(end 148 30.56)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 38)
-		(uuid "5883a3e1-e80b-4e5f-aacc-ef554de1fd4c")
-	)
-	(segment
-		(start 148 30.56)
-		(end 148 31.05)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 38)
-		(uuid "9da69bf2-fb85-43f5-b9a9-c045c7e6850d")
-	)
-	(segment
-		(start 145.49 27.99)
-		(end 148.03 30.53)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 38)
-		(uuid "cd93ec75-c9a5-4bce-a919-0474c5b9d0d4")
-	)
-	(segment
-		(start 163.94 27.99)
-		(end 167 31.05)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 39)
-		(uuid "0c2cffbd-021c-47b0-9a08-5c9f7bf6108c")
-	)
-	(segment
-		(start 161.58 27.99)
-		(end 163.94 27.99)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 39)
-		(uuid "2c3adc28-7cba-4145-a63d-48043996b09f")
-	)
-	(segment
 		(start 71.95 49.7)
 		(end 68.96 49.7)
 		(width 0.2)
@@ -25081,102 +25055,6 @@
 		(uuid "63988cac-1295-47a0-9b3c-413d0a42f92b")
 	)
 	(segment
-		(start 70.48 89.35)
-		(end 71.65 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 52)
-		(uuid "3c3f19a0-4f36-4f35-88e9-0cab92dd9970")
-	)
-	(segment
-		(start 66.31 85.18)
-		(end 70.48 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 52)
-		(uuid "8026f89e-8ed2-4491-97de-cfa2df741a53")
-	)
-	(segment
-		(start 89.57 89.35)
-		(end 91 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 53)
-		(uuid "12d159b3-f681-4d73-841e-f6524905bea8")
-	)
-	(segment
-		(start 85.37 85.15)
-		(end 89.57 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 53)
-		(uuid "797ac14a-344b-4afe-b199-1d523299919f")
-	)
-	(segment
-		(start 108.69 89.35)
-		(end 110.1 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 54)
-		(uuid "11d76d08-865c-4533-ac3a-409639390bcf")
-	)
-	(segment
-		(start 104.45 85.11)
-		(end 108.69 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 54)
-		(uuid "2ae8e061-2afc-4345-9dc6-43cdc54e67ee")
-	)
-	(segment
-		(start 127.69 89.35)
-		(end 128.55 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 55)
-		(uuid "91ed41fa-ccdc-49ef-b8f0-84b0c7e9583d")
-	)
-	(segment
-		(start 123.45 85.11)
-		(end 127.69 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 55)
-		(uuid "ab6ea44e-d0ed-487d-8e9a-87ba0815a2d4")
-	)
-	(segment
-		(start 146.77 89.35)
-		(end 147.55 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 56)
-		(uuid "caa4a867-be5c-435c-8402-a7f03b58a84f")
-	)
-	(segment
-		(start 142.64 85.22)
-		(end 146.77 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 56)
-		(uuid "e97a5ffc-7018-41d3-802f-2be7a264237e")
-	)
-	(segment
-		(start 165.77 89.35)
-		(end 167 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 57)
-		(uuid "15a27bf6-24ce-45c9-8a63-034844b34b1c")
-	)
-	(segment
-		(start 161.64 85.22)
-		(end 165.77 89.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 57)
-		(uuid "a2b269d2-14b1-4b7d-b84b-42a57e6dab11")
-	)
-	(segment
 		(start 66.36 104.27)
 		(end 69.77 104.27)
 		(width 0.2)
@@ -25193,38 +25071,6 @@
 		(uuid "503b8497-0646-4cbb-a40c-f1e4e0dda59b")
 	)
 	(segment
-		(start 85.56 104.22)
-		(end 89.17 104.22)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 59)
-		(uuid "08c739e3-e700-4fe2-a0fd-473595338bfa")
-	)
-	(segment
-		(start 89.17 104.22)
-		(end 91 106.05)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 59)
-		(uuid "5eedf48f-f57e-400f-ba43-35d1bcbd5d4f")
-	)
-	(segment
-		(start 108.17 104.22)
-		(end 110 106.05)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 60)
-		(uuid "a70c0bcd-bba4-4019-8f35-5ee93c0de9a7")
-	)
-	(segment
-		(start 104.56 104.22)
-		(end 108.17 104.22)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 60)
-		(uuid "d795baba-0b91-4a48-89be-d9f415f60924")
-	)
-	(segment
 		(start 126.87 104.22)
 		(end 129 106.35)
 		(width 0.2)
@@ -25239,38 +25085,6 @@
 		(layer "F.Cu")
 		(net 61)
 		(uuid "4e8e97fa-6c4f-43c8-bd8f-b67835bba2ce")
-	)
-	(segment
-		(start 144.98 106.59)
-		(end 147.97 106.59)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 62)
-		(uuid "32b16b55-e996-4e6b-b5fc-9cbff0ba9a1e")
-	)
-	(segment
-		(start 148 106.56)
-		(end 148 106.05)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 62)
-		(uuid "6782719f-94b5-46d0-991a-1dead7cb11ad")
-	)
-	(segment
-		(start 147.97 106.59)
-		(end 148 106.56)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 62)
-		(uuid "6e8fd935-861d-415f-ab8d-2911137c7120")
-	)
-	(segment
-		(start 142.61 104.22)
-		(end 144.98 106.59)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 62)
-		(uuid "f8e1896d-df4d-46fa-baa9-244efccb58aa")
 	)
 	(segment
 		(start 161.64 104.22)
